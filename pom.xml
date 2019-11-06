@@ -25,17 +25,17 @@
     <modules>
         <module>micro-spring-cloud-test</module>
         <module>micro-spring-cloud-eureka-server</module>
-        <module>micro-spring-cloud-feign-consumer</module>
-        <module>micro-spring-cloud-ribbon-consumer</module>
-        <module>micro-spring-cloud-zuul</module>
-        <module>micro-spring-boot-query-service-api</module>
-        <module>micro-spring-cloud-hystrix-dashboard</module>
-        <module>micro-spring-cloud-turbine</module>
-        <module>micro-spring-cloud-consul</module>
-        <module>micro-spring-cloud-rabbitmq</module>
-        <module>micro-spring-cloud-turbine-amqp</module>
-        <module>micro-zipkin-server</module>
-        <module>micro-zipkin-stream</module>
+<!--        <module>micro-spring-cloud-feign-consumer</module>-->
+<!--        <module>micro-spring-cloud-ribbon-consumer</module>-->
+<!--        <module>micro-spring-cloud-zuul</module>-->
+<!--        <module>micro-spring-boot-query-service-api</module>-->
+<!--        <module>micro-spring-cloud-hystrix-dashboard</module>-->
+<!--        <module>micro-spring-cloud-turbine</module>-->
+<!--        <module>micro-spring-cloud-consul</module>-->
+<!--        <module>micro-spring-cloud-rabbitmq</module>-->
+<!--        <module>micro-spring-cloud-turbine-amqp</module>-->
+<!--        <module>micro-zipkin-server</module>-->
+<!--        <module>micro-zipkin-stream</module>-->
     </modules>
 
 
